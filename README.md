@@ -2,4 +2,4 @@
 
 Utilizando solo html y css
 
-<img src="css/Captura.png" alt="developer">
+https://github.com/jtorres1999/Login_Html/blob/master/img/Captura.PNG
